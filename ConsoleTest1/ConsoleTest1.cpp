@@ -56,5 +56,7 @@ int main()
 
 	cout << "Литров:= " << lit;
 
+	cout << "test";
+
 	return 0;
 }
